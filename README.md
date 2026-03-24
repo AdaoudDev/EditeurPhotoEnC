@@ -1,6 +1,6 @@
 # EDITEUR PHOTO EN C 
 
-## Expliquation du projet
+## Explication du projet
 
 Ce projet a été fait pour un cours en c avancé à l'ESGI. Il a pour but de créer une application avec une interface graphique sans utiliser des librairies pour l'edition d'images.
 Il est basé sur les formats PPM (couleurs) et PGM (noir et blanc), des formats d'images simples qui sont convertis en structs avant les modifications.
